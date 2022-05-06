@@ -80,7 +80,6 @@ li {
     border-top: 2px solid rgba(0, 105, 252, 0.80);
 }
 
-/* ------------------------ */
 
 /* recherche */
 
@@ -119,6 +118,10 @@ input {
     border-top-right-radius: 15px;
     border-bottom-right-radius: 15px;
     padding: 10px;
+}
+
+#btn_rechercher_mobile {
+display: none;
 }
 
 #rechercher {
@@ -646,6 +649,17 @@ footer {
             width: auto;
             display: flex;
             justify-content: center;
+        }
+
+        #btn_rechercher {
+            display: none;
+        }
+        
+        #btn_rechercher_mobile {
+            background: #0065FC;
+            border-radius: 15px;
+            padding: 10px;
+            margin-left: 5px;
         }
     
         .hebergements_section {
