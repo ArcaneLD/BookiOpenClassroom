@@ -580,6 +580,11 @@ footer {
         margin: 0;
         margin-left: 10px;
     }
+    
+        .trending_hotel > a > .note {
+        padding-top: 70px;
+        padding-left: 20px;
+    }
 
     .trending_hotel > a > figure > figcaption {
         margin-top: 150px;
