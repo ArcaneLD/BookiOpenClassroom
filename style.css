@@ -202,7 +202,6 @@ input {
     background: #F2F2F2;
     border-radius: 25px;
     margin-right: 40px;
-    padding: 20px;
 }
 
 #liste_hebergements {
@@ -310,7 +309,6 @@ figcaption, .hotel > a > p , .hotel > a > .blue_stars {
 .trending_hotel > a > figure > figcaption {
     position: absolute;
     height: 20px;
-    width: 250px;
     font-weight: bold;
     font-size: 16px;
     margin: 0;
